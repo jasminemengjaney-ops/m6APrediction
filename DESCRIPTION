@@ -12,7 +12,7 @@ Description: Provides functions for predicting N6-methyladenosine
     returning predicted modification probabilities and statuses.
 License: MIT + file LICENSE
 Depends:
-    R (>= 4.1.0),
+    R (>= 3.5.0),
     randomForest
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
