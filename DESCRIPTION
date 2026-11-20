@@ -1,6 +1,6 @@
 Package: m6APrediction
 Title: Prediction of RNA m6A Modification Sites Using Random Forest
-Version: 0.1.0
+Version: 1.0.0
 Authors@R:
     person("Lingqin", "Meng",
            email = "Lingqin.Meng24@student.xjtlu.edu.cn.com",
